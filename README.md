@@ -3,6 +3,10 @@
 rool back revert
 and continue.
 
+<<<<<<< HEAD
 add into 1st-branch
 
 
+=======
+add into 0.5 branch
+>>>>>>> 0.5branch
